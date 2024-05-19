@@ -26,8 +26,8 @@ Featured Artists: Embedded YouTube videos featuring workshops from renowned arti
 Educational Content: Provides users with valuable insights and tutorials on various art techniques.
 -Footer
 Contact Information: Contains copyright information and a brief note about CreateWitty.
-Social Media Links: Users can connect with CreateWitty on various social media platforms via stylish icons.!
+Social Media Links: Users can connect with CreateWitty on various social media platforms via stylish icons.
 Insight to the Website:
-[Screenshot (483)](https://github.com/Swati-in/Art-Website/assets/155288849/f8e1499b-6fba-4d42-8019-31c866a7b93e)
+![Screenshot (483)](https://github.com/Swati-in/Art-Website/assets/155288849/f8e1499b-6fba-4d42-8019-31c866a7b93e)
 ![Screenshot (481)](https://github.com/Swati-in/Art-Website/assets/155288849/888b7a7f-7354-4eb8-89e8-98ba3d91ec26)
 ![Screenshot (482)](https://github.com/Swati-in/Art-Website/assets/155288849/f92748b7-89a5-4cbe-b893-9de027feae6a)
